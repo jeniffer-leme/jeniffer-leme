@@ -32,8 +32,9 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas (em andamento)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![SQL Badge](https://img.shields.io/badge/-SQL-000?logo=MySQL&logoColor=4479A1)
 
-> **Ambientes**: Visual Studio Code, NetBeans  
+> **Ambientes**: Visual Studio Code, NetBeans, MySQL  
 > **Versionamento**: Git, GitHub
 
 ### 🔗 Contato 

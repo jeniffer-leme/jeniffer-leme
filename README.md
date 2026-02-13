@@ -65,3 +65,11 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas (em andamento)
 
 > *Obrigada por visitar meu perfil! Estou sempre aberta a aprender e crescer na área de TI.* 🚀
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/jeniffer-leme/jeniffer-leme/output/pacman-contribution-graph-dark.svg">
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/jeniffer-leme/jeniffer-leme/output/pacman-contribution-graph.svg">
+</picture>
+
